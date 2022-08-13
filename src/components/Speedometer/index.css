@@ -1,0 +1,38 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #07080c;
+  color: #ffff;
+}
+.container1 {
+  text-align: center;
+}
+.imageEl {
+  width: 40%;
+}
+.heading {
+  font-style: italic;
+}
+.container2 {
+  text-align: center;
+}
+.Btn {
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin-right: 15px;
+}
+.accelerate {
+  background-color: #0b69ff;
+  color: white;
+}
+.brake {
+  background-color: transparent;
+  color: #94a3b8;
+  border: 1px solid #cbd5e1;
+}
